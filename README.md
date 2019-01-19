@@ -7,7 +7,7 @@
     Prof. Sanjeev Manohar (sanjeev_manohar@uml.edu)
     Prof. Valmor F. de Almeida (valmor_dealmeida@uml.edu)
 
-The goal of this course is to present to freshman students of chemical engineering an interconnected set of concepts and their corresponding computational methods needed in the core undergraduate chemical engineering curriculum. In particular, concepts central to problem solving in the core areas of chemical reactor engineering and separations with applications in nuclear, biochemical, and materials engineering.
+The goal of this course is to present to freshmen students of chemical engineering an interconnected set of concepts and their corresponding computational methods needed in the core undergraduate chemical engineering curriculum. In particular, concepts central to problem solving in the core areas of chemical reactor engineering and separations with applications in nuclear, biochemical, and materials engineering.
 
 Feedback and collaboration to improve this course are welcome through GitHub `pull requests` and `issues` or direct email to the faculty listed above.
 
