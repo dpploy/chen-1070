@@ -1,5 +1,6 @@
 # ChEn-1070 Introduction to Chemical Engineering
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpploy/chen-1070/master)
+[![NBViewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](http://nbviewer.jupyter.org/github/dpploy/chen-1070/tree/master/notebooks)
 
     University of Massachusetts Lowell, Fall 2018
     Dept. of Chemical Engineering
