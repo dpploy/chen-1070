@@ -2,7 +2,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpploy/chen-1070/master)
 [![NBViewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](http://nbviewer.jupyter.org/github/dpploy/chen-1070/tree/master/notebooks)
 
-    University of Massachusetts Lowell, Fall 2018
+    University of Massachusetts Lowell, Spring 2019
     Dept. of Chemical Engineering
     Prof. Sanjeev Manohar (sanjeev_manohar@uml.edu)
     Prof. Valmor F. de Almeida (valmor_dealmeida@uml.edu)
