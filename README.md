@@ -1,6 +1,7 @@
 # ChEn-1070 Introduction to Chemical Engineering
+[![Azure Notebooks](https://notebooks.azure.com/launch.svg)](https://notebooks.azure.com/dealmeidavf/projects/chen-1070)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpploy/chen-1070/master)
-[![NBViewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](http://nbviewer.jupyter.org/github/dpploy/chen-1070/tree/master/notebooks)
+[![NBViewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/dpploy/chen-1070/tree/master/notebooks)
 
     University of Massachusetts Lowell, Spring 2019
     Dept. of Chemical Engineering
