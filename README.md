@@ -22,6 +22,8 @@ start a Jupyter Notebook server on your web browser with all notebooks listed. U
 clicking on individual notebook files, you will access the live course notebooks.
 + Use the green `download` button above on the right upper side of the page and download a ZIP archive to your local machine. Unzip the archive. Then use your own Jupyter Notebook server to navigate to the directory created by the unzip operation and upload the notebook files. In this case the files will not be updated and you will need to return to the repository for getting new files or updated versions of previously downloaded files.
 
+Later in the curriculum, students will take the required course [ChEn-3170](https://github.com/dpploy/chen-1070) which expands the content of the present course. Students will profit from looking ahead and comparing notes between the two courses.
+
 Thanks in advance for inputs to improve this course.\
 Regards,\
 Sanjeev and Valmor.
