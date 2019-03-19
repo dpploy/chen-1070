@@ -4,3 +4,5 @@ pandas
 scipy
 plotly
 ipywidgets
+mendeleev
+jupyter_contrib_nbextensions
