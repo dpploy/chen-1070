@@ -7,7 +7,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 *solution*
-*in-class*
+#*in-class*
 
 # C extensions
 *.so
