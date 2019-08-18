@@ -5,11 +5,12 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpploy/chen-1070/master)
 [![NBViewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/dpploy/chen-1070/tree/master/notebooks)
 
-    University of Massachusetts Lowell, Spring 2019
-    Dept. of Chemical Engineering
-    Prof. Sanjeev Manohar (sanjeev_manohar@uml.edu)
-    Prof. Valmor F. de Almeida (valmor_dealmeida@uml.edu)
-    T.A. Taha Azzaoui (taha_azzaoui@student.uml.edu)
+   + [University of Massachusetts Lowell](https://www.uml.edu/), Spring 2019
+   + [Dept. of Chemical Engineering](https://www.uml.edu/Engineering/Chemical/)
+   + Prof. Sanjeev Manohar (sanjeev_manohar@uml.edu)
+   + [Prof. Valmor F. de Almeida](https://www.uml.edu/Engineering/Chemical/faculty/de-Almeida-Valmor.aspx) (valmor_dealmeida@uml.edu)
+   + T.A. Taha Azzaoui (taha_azzaoui@student.uml.edu)
+   
 
 The goal of this course is to present to freshmen students of chemical engineering an interconnected set of concepts and their corresponding computational methods needed in the core undergraduate chemical engineering curriculum. In particular, concepts central to problem solving in the core areas of chemical reactor engineering and separations with applications in nuclear, biochemical, and materials engineering.
 
