@@ -1,6 +1,6 @@
 # ChEn-1070 Introduction to Chemical Engineering
-[![Website](https://img.shields.io/github/repo-size/dpploy/chen-1070)](https://github.com/dpploy/chen-1070)
-[![Home](https://img.shields.io/github/repo-size/dpploy/chen-1070.svg?label=size&style=flat)](https://github.com/dpploy/chen-1070)
+[![Website](https://img.shields.io/website/https/github.com/dpploy/chen-1070?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online)](https://github.com/dpploy/chen-1070)
+[![Home](https://img.shields.io/github/repo-size/dpploy/chen-1070)](https://github.com/dpploy/chen-1070)
 [![Azure Notebooks](https://notebooks.azure.com/launch.svg)](https://notebooks.azure.com/dealmeidavf/projects/chen-1070)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpploy/chen-1070/master)
 [![NBViewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/dpploy/chen-1070/tree/master/notebooks)
